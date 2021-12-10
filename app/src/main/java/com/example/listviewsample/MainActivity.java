@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+//Procedure
 //Step 1: Create XML tag and java object
 //Step 2: Create frontend model of one row
 //Step 3: Create backend model
